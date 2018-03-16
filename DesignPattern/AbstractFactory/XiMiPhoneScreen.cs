@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace AbstractFactory
+{
+    class XiMiPhoneScreen:AbstractScreenClass
+    {
+        public override void Prints()
+        {
+            Console.WriteLine("小米手机屏幕");
+        }
+    }
+}
