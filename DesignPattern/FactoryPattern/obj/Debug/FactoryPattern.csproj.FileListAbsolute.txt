@@ -1,0 +1,6 @@
+D:\Unity3dForPC\Git\DesignPattern\DesignPattern\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+D:\Unity3dForPC\Git\DesignPattern\DesignPattern\FactoryPattern\bin\Debug\FactoryPattern.exe
+D:\Unity3dForPC\Git\DesignPattern\DesignPattern\FactoryPattern\bin\Debug\FactoryPattern.pdb
+D:\Unity3dForPC\Git\DesignPattern\DesignPattern\FactoryPattern\obj\Debug\FactoryPattern.csprojResolveAssemblyReference.cache
+D:\Unity3dForPC\Git\DesignPattern\DesignPattern\FactoryPattern\obj\Debug\FactoryPattern.exe
+D:\Unity3dForPC\Git\DesignPattern\DesignPattern\FactoryPattern\obj\Debug\FactoryPattern.pdb

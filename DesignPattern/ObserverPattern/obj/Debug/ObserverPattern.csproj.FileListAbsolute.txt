@@ -4,3 +4,6 @@ c:\users\administrator\documents\visual studio 2013\Projects\DesignPattern\Obser
 c:\users\administrator\documents\visual studio 2013\Projects\DesignPattern\ObserverPattern\bin\Debug\ObserverPattern.pdb
 c:\users\administrator\documents\visual studio 2013\Projects\DesignPattern\ObserverPattern\obj\Debug\ObserverPattern.exe
 c:\users\administrator\documents\visual studio 2013\Projects\DesignPattern\ObserverPattern\obj\Debug\ObserverPattern.pdb
+D:\Unity3dForPC\Git\DesignPattern\DesignPattern\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+D:\Unity3dForPC\Git\DesignPattern\DesignPattern\ObserverPattern\obj\Debug\ObserverPattern.exe
+D:\Unity3dForPC\Git\DesignPattern\DesignPattern\ObserverPattern\obj\Debug\ObserverPattern.pdb
