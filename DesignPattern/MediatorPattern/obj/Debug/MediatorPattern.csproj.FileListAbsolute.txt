@@ -1,0 +1,6 @@
+D:\Unity3dForPC\Git\DesignPattern\DesignPattern\MediatorPattern\bin\Debug\MediatorPattern.exe.config
+D:\Unity3dForPC\Git\DesignPattern\DesignPattern\MediatorPattern\bin\Debug\MediatorPattern.exe
+D:\Unity3dForPC\Git\DesignPattern\DesignPattern\MediatorPattern\bin\Debug\MediatorPattern.pdb
+D:\Unity3dForPC\Git\DesignPattern\DesignPattern\MediatorPattern\obj\Debug\MediatorPattern.csprojResolveAssemblyReference.cache
+D:\Unity3dForPC\Git\DesignPattern\DesignPattern\MediatorPattern\obj\Debug\MediatorPattern.exe
+D:\Unity3dForPC\Git\DesignPattern\DesignPattern\MediatorPattern\obj\Debug\MediatorPattern.pdb

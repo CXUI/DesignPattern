@@ -15,6 +15,7 @@ namespace AbstractFactory
             hw.PhoneShell().Prints();
             hw.Screen().Prints();
 
+            //小米工厂
             XiMiFactory xm = new XiMiFactory();
             XiMiPhoneScreen xms = (XiMiPhoneScreen)xm.Screen();
             xms.Prints();
