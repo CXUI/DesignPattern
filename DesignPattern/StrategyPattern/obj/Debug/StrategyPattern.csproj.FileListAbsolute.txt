@@ -1,0 +1,6 @@
+D:\Unity3dForPC\Git\DesignPattern\DesignPattern\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+D:\Unity3dForPC\Git\DesignPattern\DesignPattern\StrategyPattern\obj\Debug\StrategyPattern.csprojResolveAssemblyReference.cache
+D:\Unity3dForPC\Git\DesignPattern\DesignPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+D:\Unity3dForPC\Git\DesignPattern\DesignPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+D:\Unity3dForPC\Git\DesignPattern\DesignPattern\StrategyPattern\obj\Debug\StrategyPattern.exe
+D:\Unity3dForPC\Git\DesignPattern\DesignPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb

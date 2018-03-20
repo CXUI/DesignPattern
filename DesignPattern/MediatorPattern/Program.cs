@@ -16,7 +16,7 @@ namespace MediatorPattern
             A.MoneyCount = 20;
             B.MoneyCount = 20;
 
-            AbstractMediator mediator = new MediatorPater(A, B);
+            AbstractMediator mediator = new MediatorPater(A,B);
             A.ChangeCount(5, mediator);
             Console.WriteLine("A:" + A.MoneyCount);
             Console.WriteLine("B:" + B.MoneyCount);

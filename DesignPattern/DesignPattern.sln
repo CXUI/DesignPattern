@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatePattern", "StatePatter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatorPattern", "MediatorPattern\MediatorPattern.csproj", "{3FD112A1-64E7-44B2-BC35-3433136F6506}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern", "StrategyPattern\StrategyPattern.csproj", "{D097B7E8-DDD5-4921-92DE-652C74A55684}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AStar", "AStar\AStar.csproj", "{EE472801-84CD-4108-A1F9-7A35E32ED096}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{3FD112A1-64E7-44B2-BC35-3433136F6506}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FD112A1-64E7-44B2-BC35-3433136F6506}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FD112A1-64E7-44B2-BC35-3433136F6506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D097B7E8-DDD5-4921-92DE-652C74A55684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D097B7E8-DDD5-4921-92DE-652C74A55684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D097B7E8-DDD5-4921-92DE-652C74A55684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D097B7E8-DDD5-4921-92DE-652C74A55684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE472801-84CD-4108-A1F9-7A35E32ED096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE472801-84CD-4108-A1F9-7A35E32ED096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE472801-84CD-4108-A1F9-7A35E32ED096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE472801-84CD-4108-A1F9-7A35E32ED096}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
